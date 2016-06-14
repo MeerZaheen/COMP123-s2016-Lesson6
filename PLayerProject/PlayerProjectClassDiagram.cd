@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
   <Class Name="PLayerProject.GameObject">
-    <Position X="1.75" Y="1.25" Width="1.5" />
+    <Position X="1.75" Y="1.25" Width="2" />
     <TypeIdentifier>
-      <HashCode>AAAAIAAAAAACAAAAAAAAAAQBAAFAAEAKQAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAIAAAAAACAAAAAAAAAQQBAIEAAEAKRAAAAgAAAFA=</HashCode>
       <FileName>GameObject.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PLayerProject.Player">
-    <Position X="4.75" Y="1.25" Width="1.5" />
+    <Position X="4.75" Y="0.75" Width="1.75" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAIBggAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Player.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="PLayerProject.Enemy">
-    <Position X="4.75" Y="3" Width="1.5" />
+    <Position X="4.75" Y="3.75" Width="2" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAACAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAgAAAAAAAAgAAARAAAAAA=</HashCode>
       <FileName>Enemy.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="PLayerProject.ShootingEnemy">
-    <Position X="7.75" Y="3" Width="1.5" />
+    <Position X="7.75" Y="3" Width="2.25" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ShootingEnemy.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="PLayerProject.TouchingEnemy">
-    <Position X="4.75" Y="5.75" Width="1.5" />
+    <Position X="4.75" Y="7.5" Width="2" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>TouchingEnemy.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
@@ -41,14 +41,14 @@
   <Interface Name="PLayerProject.iShootable">
     <Position X="7.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>iShootable.cs</FileName>
     </TypeIdentifier>
   </Interface>
   <Interface Name="PLayerProject.ITouchable">
     <Position X="9.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ITouchable.cs</FileName>
     </TypeIdentifier>
   </Interface>
