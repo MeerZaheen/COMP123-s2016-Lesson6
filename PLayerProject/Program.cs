@@ -19,8 +19,10 @@ namespace PLayerProject
         public static void Main(string[] args)
         {
             Player greenPlayer = new PLayerProject.Player("green");
+            greenPlayer.Facing.x = -3.0f;
+            greenPlayer.Facing.y = 3.0f;
 
-            greenPlayer.ToString();
+            Console.WriteLine(greenPlayer.ToString()); 
 
             WaitForAnyKey();
 
