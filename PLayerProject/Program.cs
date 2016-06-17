@@ -19,10 +19,11 @@ namespace PLayerProject
         public static void Main(string[] args)
         {
             Player greenPlayer = new PLayerProject.Player("green");
-            greenPlayer.MoveForward();
+
+            greenPlayer.ToString();
+
             WaitForAnyKey();
-            TouchingEnemy redEnemy = new TouchingEnemy("red");
-            redEnemy.MoveForward();
+
         }
 
         /**
